@@ -1,4 +1,4 @@
-# Mini-Project-2
+# Machine learning Project
 #Water Potability detection
 # importing libraries
 import pandas as pd
